@@ -1,5 +1,8 @@
 # Portscanner
 
+Simple program to scan a server for open ports.
+
+
 ### Installation
 Clone the project in a local folder
 
